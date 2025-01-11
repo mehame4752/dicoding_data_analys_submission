@@ -470,7 +470,7 @@ with st.sidebar:
 
     # date input
     date_input = st.date_input(
-        label="Rentang Waktu",
+        label="Time Range",
         min_value=min_date,
         max_value=max_date,
         value=[min_date, max_date],
