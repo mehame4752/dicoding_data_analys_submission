@@ -1,6 +1,6 @@
-# My Project
+# Dicoding Data Analyst with Python
 
-Dicoding Data Analyst with Python
+[Online Lesson](https://www.dicoding.com/academies/555)
 
 [Streamlit Cloud App](https://dicoding-data-analys-submission-hame.streamlit.app/)
 
