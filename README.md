@@ -2,6 +2,8 @@
 
 Dicoding Data Analyst with Python
 
+[Streamlit Cloud App](https://dicoding-data-analys-submission-hame.streamlit.app/)
+
 ## Installation
 
 1. Create virtual environment
